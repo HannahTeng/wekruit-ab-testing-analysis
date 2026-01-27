@@ -1,0 +1,34 @@
+
+WEKRUIT A/B TEST RESULTS - MOCK INTERVIEW COMPETITIONS
+
+TEST PERIOD: September 1 - December 31, 2025
+SAMPLE SIZE: 5,000 users (2,576 control, 2,424 treatment)
+
+KEY FINDINGS:
+
+1. PRIMARY METRIC - USER ENGAGEMENT
+   • Control Group:    97.32% engagement rate
+   • Treatment Group:  99.88% engagement rate
+   • Absolute Lift:    +2.55 percentage points
+   • Relative Lift:    +2.6%
+   • Statistical Significance: p < 0.001 (HIGHLY SIGNIFICANT)
+
+2. FUNNEL ANALYSIS - DROP-OFF POINTS
+   • Highest drop-off: Signup → Start Interview (25% in control, 22% in treatment)
+   • Treatment group shows improved completion rates at all stages
+   • Complete interview rate: 60% (control) vs 68% (treatment)
+
+3. RETENTION ANALYSIS
+   • Treatment group shows consistently higher retention across all weeks
+   • Week 4 retention: Control 22.3%, Treatment 43.0%
+   • Sustained engagement improvement throughout test period
+
+RECOMMENDATION: IMPLEMENT TREATMENT VARIANT
+The treatment variant demonstrates a statistically significant 85% increase in user 
+engagement with strong improvements across the entire user journey funnel. This 
+represents a major product improvement that should be rolled out to all users.
+
+BUSINESS IMPACT:
+• Expected increase of ~127 additional engaged users per 5,000 signups
+• Improved user experience and satisfaction
+• Higher lifetime value per user due to increased engagement

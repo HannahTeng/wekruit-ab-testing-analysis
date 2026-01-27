@@ -1,0 +1,17 @@
+competition_id,competition_date,competition_type
+1,2025-09-01,case_study
+2,2025-09-08,behavioral
+3,2025-09-15,technical
+4,2025-09-22,behavioral
+5,2025-09-29,case_study
+6,2025-10-06,case_study
+7,2025-10-13,case_study
+8,2025-10-20,case_study
+9,2025-10-27,behavioral
+10,2025-11-03,technical
+11,2025-11-10,behavioral
+12,2025-11-17,technical
+13,2025-11-24,case_study
+14,2025-12-01,technical
+15,2025-12-08,case_study
+16,2025-12-15,behavioral
